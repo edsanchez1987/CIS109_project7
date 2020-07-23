@@ -1,0 +1,10 @@
+C:\Users\Eduardo\source\repos\eds_currencyConverter\bin\Debug\eds_currencyConverter.exe.config
+C:\Users\Eduardo\source\repos\eds_currencyConverter\bin\Debug\eds_currencyConverter.exe
+C:\Users\Eduardo\source\repos\eds_currencyConverter\bin\Debug\eds_currencyConverter.pdb
+C:\Users\Eduardo\source\repos\eds_currencyConverter\obj\Debug\eds_currencyConverter.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\eds_currencyConverter\obj\Debug\eds_currencyConverter.currencyConvert.resources
+C:\Users\Eduardo\source\repos\eds_currencyConverter\obj\Debug\eds_currencyConverter.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\eds_currencyConverter\obj\Debug\eds_currencyConverter.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\eds_currencyConverter\obj\Debug\eds_currencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\eds_currencyConverter\obj\Debug\eds_currencyConverter.exe
+C:\Users\Eduardo\source\repos\eds_currencyConverter\obj\Debug\eds_currencyConverter.pdb
